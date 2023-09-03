@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hijau_primary">#00696f</color>
+    <color name="hijau_onPrimary">#ffffff</color>
+    <color name="hijau_variant">#c4cf21</color>
+    <color name="hijau_secondary">#5d6300</color>
+    <color name="hijau_secondary_variant">#e1ea75</color>
+    <color name="hijau_background">#f9ffe8</color>
+
+    <color name="hijau_primary_dark">#4cd9e3</color>
+    <color name="hijau_onPrimary_dark">#00363a</color>
+    <color name="hijau_Primary_variant_dark">#004f54</color>
+    <color name="hijau_secondary_dark">#c5ce5c</color>
+    <color name="hijau_onSecondary_dark">#2f3300</color>
+    <color name="hijau_secondary_variant_dark">#454a00</color>
+    <color name="hijau_tertiary_dark">#a7d474</color>
+
+</resources>

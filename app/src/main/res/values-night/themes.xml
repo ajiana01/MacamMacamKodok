@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MacamMacamKodok" parent="Theme.Material3.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/hijau_primary_dark</item>
+        <item name="colorPrimaryVariant">@color/hijau_onPrimary_dark</item>
+        <item name="colorOnPrimary">@color/hijau_onPrimary_dark</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/hijau_secondary_dark</item>
+        <item name="colorSecondaryVariant">@color/hijau_secondary_variant_dark</item>
+        <item name="colorOnSecondary">@color/hijau_onPrimary_dark</item>
+    </style>
+</resources>

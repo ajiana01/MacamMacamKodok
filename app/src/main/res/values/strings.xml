@@ -1,0 +1,70 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="nama_kodok">Frog Name</string>
+    <string name="anime_dari">Anime From</string>
+    <string name="penjelasan">Explanation</string>
+    <string name="app_name">Macam Macam Kodok</string>
+    <string name="nur_aji_ananta">Nur Aji Ananta</string>
+    <string name="email">nur.ajiananta177@gmail.com</string>
+    <string name="explain">Explain</string>
+    <string name="judul_anime">Judul Anime</string>
+    <string name="anime">Anime :</string>
+    <string name="kodokers">Kodokers</string>
+    <string name="profile">Profile</string>
+
+    <string-array name="data_kodok">
+        <item>Gamatatsu</item>
+        <item>Yokozuna</item>
+        <item>Gamakichi</item>
+        <item>Yajirou Shimogamo</item>
+        <item>Eruka Frog</item>
+        <item>Gamabunta</item>
+        <item>Tsuyu Asui</item>
+        <item>Fukasaku</item>
+        <item>Aogaeru</item>
+        <item>Sergeant Keroro</item>
+        <item>Komi-san</item>
+    </string-array>
+
+    <string-array name="data_judul_anime">
+        <item>Naruto</item>
+        <item>One Piece</item>
+        <item>Naruto</item>
+        <item>Uchouten Kazoku (The Eccentric Family)</item>
+        <item>Soul Eater</item>
+        <item>Naruto</item>
+        <item>Boku no Hero Academia (My Hero Academia)</item>
+        <item>Naruto Shippuden</item>
+        <item>Spirited Away</item>
+        <item>Keroro Gunsou (Sgt. Frog)</item>
+        <item>Komi Can\'t Communicate</item>
+    </string-array>
+
+    <string-array name="data_penjelasan">
+        <item>Gamatatsu is a frog from Mount Myboku. He is the youngest son of Gamabunta and Gamakichi’s younger brother. Gamatatsu is largely yellow, but his eyes and mouth are orange. He also has two marks on his tummy that curve in. He initially showed up in the show when Naruto Uzumaki summoned him by accident during a fight with Orochimaru. Gamatatsu’s brother, Gamakichi, and Naruto became close friends over time. Gamatatsu has proven that, like other toads, he can shoot oil from his mouth. He can combine this ability with Naruto’s wind chakra to make the Wind Release: Toad Oil Bullet.</item>
+        <item>Yokozuna is a big, yellow-brown frog with black hair that is worn in a chonmage. He has a lot of scars on his stomach. He also has sharp, jagged teeth and seems to be able to walk on two legs, which is largely employed for his sumo stance. He cares a lot about his friends and family. He is very loyal to Franky, who taught him how to do the front crawl stroke when they were kids. Yokozuna is a strong swimmer who is strong enough to stop a Sea Train, even though doing so for years left him with scars on his face, arms, and belly.</item>
+        <item>Gamakichi is the first one on our list. He is one of several toads that can be called from the magical Mount Myoboku. In the Naruto series, toads can do a lot of different things, like spit out water and oil or use advanced ninja techniques. Gamakichi is Naruto’s personal summon. They became close after Naruto saved him from Gaara’s little Shukaku form. Gamakichi himself is a bit of a smart aleck and a touch condescending, but as the story goes on, he grows up and gets bigger. He has a little bit of a gangster vibe and smokes cigarettes. He is definitely cool enough to be on our list.</item>
+        <item>Yajirou is the second son of the Shimogamo family. He used to be a tanuki, but he turned into a frog a long time ago and has forgotten how to change back. He lives in a pond inside a well, where he spends much of his time listening to other people’s stories and sometimes giving his own advise. Overall, he is not very active or driven, although he loves to drink. Without giving anything away, it turns out that Yajirou is a complicated character with a lot of emotional growth towards the end of the novel.</item>
+        <item>In the Soul Eater series, Eruka Frog is a witch that looks like a frog. After failing to murder Medusa, Eruka Frog is forced to work for her. Her name is a play on the word “kaeru” ( vs. ), and both her powers and how she looks are based on frogs. She carries tadpole bombs, a headdress that looks like a frog, a huge tadpole mount named Otama Jackson, and the power to turn into a frog at any time. Even though Eruka is a bit cowardly and destructive by nature, she has proved she can be kind, which makes her a more multifaceted character than some of the other witches. With her famous orange hat, polka-dot frock, long silver hair, and big, frog-like grin, her design is also incredibly charming.</item>
+        <item>Gamabunta is a cranky, defiant frog who doesn’t care about anything. He doesn’t like to take instructions from anyone, unless the summoner is very good and earns his respect. Gamabunta is one of the series’ biggest summons, about the same size as a tailed beast. He is a drab, rusty red color, but there are brighter red patterns around his eyes, on his lips, and on his breast. Gamabunta has shown that he is a strong fighter in all of his fights, whether or not his summoner is beside him. Gamabunta is also smart and knows what he is doing.</item>
+        <item>Tsuyu is a student at U.A. Her name is the same as the rainy season mentioned at the beginning. He went to high school with Deku, Uraraka, and the rest of the major characters, and he is currently the rising star of the anime world of frogs. Her quirk, Frog, makes her look and have skills like a frog. She is good in swimming, climbing, and jumping, and she can also spit out poison, change color, and use her long tongue as a tool or weapon. Her long green hair, which she normally wears in a large bow, is the thing that people remember most about her. Tsuyu is easygoing and talks in a straight-forward, honest way. She is also smart, helpful to her friends, and has a strong sense of right and wrong, all of which make her a memorable and likable character.</item>
+        <item>Everyone who knows Fukasaku and his wife Shima well thinks they are both very knowledgeable and have a lot of respect for them. In actuality, he and Shima fight over tiny things all the time when they should be focusing on the broader picture. Fukasaku is a green toad with thick eyebrows and a little goatee. His white hair is fashioned in a way that looks like a mohawk. He has been seen wearing two different kinds of capes: one with a high collar and one that is simpler. Fukasaku and Shima are both quite dangerous in battle. After Shima sends forth a snake-like monster from her stomach to find the opponent, Fukasaku can immediately attack with his tongue. Both have the power to make strong gusts of wind.</item>
+        <item>Aogaeru is a frog ghost who works at Yubaba’s bathhouse. He wears a blue kimono. He is exceedingly greedy, much like the other people that work at the bathhouse. When he sneaks back into the Big Tub at night to try to get more gold that the River Spirit left behind. He thought there could be gold in the crevices between the floorboards. After being tricked into walking up to No-Face with some false gold, he is then eaten by him. After eating Aogaeru, No-Face took on his voice.</item>
+        <item>Keroro is the leader of the Keronian invasion of Earth, which they call Pekopon. However, he is really just a freeloader who lives with the rest of his crew in the Hinata home. Keroro’s crazy behavior, self-centered incompetence, and fixation with Gunpla, disco, costumes, and TV make him a funny driving force in the long-running gag comedy series. He is a great cleaner and curler, among other things, and when it’s humid, he gets even stronger. Keroro’s name comes from the Japanese word for the sound a frog makes, “kero-kero.” He also appears like a frog since he has green skin, big eyes, a yellow star on his abdomen, and a cap that looks like ears. Overall, Keroro is a very enjoyable character who precisely shows what’s good about his series.</item>
+        <item>Sebenarnya, alasannya cukup sederhana. Banyak orang yang menyebut Komi-san kodok karena desain karakternya yang dianggap aneh, terutama bagian matanya yang terlihat lebar pada beberapa adegan tertentu dan bentuk wajahnya yang dianggap tidak biasa. Beberapa orang yang iseng pun mulai menyebutnya kodok dan terus-menerus membandingkannya dengan hewan tersebut. Awalnya, hal ini terjadi karena ada orang-orang di media sosial yang sedang berdebat mengenai karakter waifu mereka. Tiba-tiba, banyak yang menggunakan kata kodok untuk menghina Komi-san karena wajahnya mirip dengan hewan tersebut. Ditambah lagi dengan viralnya game yang beberapa waktu lalu meramaikan internet, semakin banyak orang yang membuat lelucon tentang Komi-san kodok. Namun sebenarnya, kodok hanya bersuara ketika sedang dalam masa kawin. Selain itu, kodok akan tetap diam di tempatnya. Sama seperti Komi-san yang seringkali dianggap pendiam dan sulit berkomunikasi dengan orang lain.</item>
+    </string-array>
+
+    <integer-array name="data_foto">
+        <item>@drawable/img_gamatatsu</item>
+        <item>@drawable/img_yokozuna</item>
+        <item>@drawable/img_gamakichi</item>
+        <item>@drawable/img_yajirou_shimogamo</item>
+        <item>@drawable/img_eruka_frog</item>
+        <item>@drawable/img_gamabunta</item>
+        <item>@drawable/img_tzuyu_asui</item>
+        <item>@drawable/img_fukasaku</item>
+        <item>@drawable/img_aogaeru</item>
+        <item>@drawable/img_sergant_keroro</item>
+        <item>@drawable/img_komi_san</item>
+    </integer-array>
+
+</resources>
